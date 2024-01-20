@@ -20,4 +20,4 @@ This guided project, part of the Scrimba Front-End Developer Program, involved r
 To view this project, clone the repository to your local machine and open the `index.html` file in a web browser.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://cozy-belekoy-4c9e7f.netlify.app/)
